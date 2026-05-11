@@ -17,7 +17,22 @@
           <mxGeometry x="374" y="69" width="94" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CzQy64LNYfByz9ZVHKq4-1" value="提交答卷" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="384" y="79" width="94" height="30" as="geometry" />
+          <mxGeometry x="481" y="85" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CzQy64LNYfByz9ZVHKq4-2" value="提交答卷" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="603" y="149" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CzQy64LNYfByz9ZVHKq4-3" value="提交答卷" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="588" y="99" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CzQy64LNYfByz9ZVHKq4-4" value="查看倒计时" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="566" y="46" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CzQy64LNYfByz9ZVHKq4-5" value="提交答卷" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="703" y="110" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CzQy64LNYfByz9ZVHKq4-6" value="提交答卷" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="697" y="67" width="94" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
