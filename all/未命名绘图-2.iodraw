@@ -16,6 +16,9 @@
         <mxCell id="n8Mk9kA3WihVDCB2_YsQ-11" value="提交答卷" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="374" y="69" width="94" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CzQy64LNYfByz9ZVHKq4-1" value="提交答卷" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384" y="79" width="94" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
